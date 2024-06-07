@@ -30,4 +30,3 @@ button.addEventListener('click',async ()=>{
   
 })
 
-//var url= http://api.weatherapi.com/v1/current.json?key=766aaa46011e4d2eab6102327241704&q=rahuri&aqi=yes
